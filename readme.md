@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Ancheta123/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/toylogo.png" width="100" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">ANCHETA-FINAL PROJECT</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -18,9 +18,11 @@
 
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/d7129ac7-fd68-49f5-94fc-7789b403b4d4/project/bc4f4cdc-1261-460e-813b-a0a113ce0ae2.svg)](https://wakatime.com/badge/user/d7129ac7-fd68-49f5-94fc-7789b403b4d4/project/bc4f4cdc-1261-460e-813b-a0a113ce0ae2)
+
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=ancheta123/WD-Seatwork-ToyCompany)
 
 ---
 
