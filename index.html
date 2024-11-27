@@ -10,6 +10,14 @@
     <link rel="stylesheet" href="./assets/css/style.css" />
     <link rel="icon" href="./assets/img/toylogo.png" type="image/icon type">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+
 </head>
 <body class="bgbody">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -24,16 +32,16 @@
                 <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="">About Us</a>
+                <a class="nav-link" href="/pages/about/index.html">About Us</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="">Products</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="">Contacts</a>
+                <a class="nav-link" href="./pages/contacts/index.html">Contacts</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="">Cart</a>
+                <a class="nav-link" href="./pages/cart/index.html">Cart</a>
               </li>
             </ul>
                 <form class="d-flex" role="search">
@@ -47,7 +55,7 @@
       <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="10000">
-            <img src="/assets/img/INTRO.png" class="d-block w-100" alt="...">
+            <a href="/pages/about/index.html"><img src="/assets/img/INTRO.png" class="d-block w-100" alt="..."></a>
           </div>
           <div class="carousel-item" data-bs-interval="2000">
             <img src="/assets/img/INTRO 2.png" class="d-block w-100" alt="...">
@@ -66,13 +74,18 @@
         </button>
       </div>
 
+      <h1 class="title">Categories</h1>
       <div class="flex-container">
-        <div>1</div>
-        <div>2</div>
-        <div>3</div>
+        <div>
+          <img class="img" src="/assets/img/teddybear 1.png"> <h1 class="title-2">Teddy Bear</h1>
+        </div>
+        <div>
+          <img class="img" src="/assets/img/plushie 1.jpg"> <h1 class="title-2">Plushie</h1>
+        </div>
+        <div>
+          <img class="img" src="/assets/img/plusheen 1.png"> <h1 class="title-2">Plusheen Series</h1>
+        </div>
       </div>
-      
-
 </body>
 
 <footer class="footer-title">
@@ -80,11 +93,14 @@
     <h1 class="footer">Newsletter</h1> <br>
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Your Email">
   </div>
-  <div class="flex-container">
-    <img src="/assets/img/15 DAYS RETURN.png">
+  <a class="title-3" href="">Subscribe</a>
+
+    <div class="footer">
+      <img class= "img" src="assets/img/15 DAYS RETURN.png">
     </div>
 
   <div class="footer-bottom">
     <p>© 2024 House of Wonders</p>
   </div>
+</footer>
 </html>

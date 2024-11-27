@@ -12,7 +12,6 @@
     padding-left: 50px;
 }
 
-
 .img {
     width: 100%;
     height: auto;
@@ -28,34 +27,9 @@
 .footer {
     display: flex;
     justify-content: center;
-    text-align: center;
-    margin: 100px;
-    margin-bottom: 50px;
+    margin-top: 100px;
     font-size: 50pt;
     font-family: "Bebas Neue", sans-serif;
-}
-
-.form-control{
-    background-color:white;
-    color: white;
-    text-align: center;
-    width: 300px;
-    height: 50px;
-    margin: auto;
-}
-
-.title-3{
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    margin-left: 530px;
-    margin-right: 530px;
-    margin-bottom: 100px;
-    padding: 20px;
-    font-family: "Comic Neue", cursive;
-    font-size: large;
-    font-weight: 700;
-    font-style: normal;
 }
 
 .footer-bottom {
@@ -64,3 +38,10 @@
     height: 50px;
     padding: 50px;
 }
+
+
+
+
+
+
+

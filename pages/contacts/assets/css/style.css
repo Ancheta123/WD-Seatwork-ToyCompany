@@ -88,6 +88,17 @@
     margin: auto;
 }
 
+.form-check{
+    text-align: center;
+    text-align: justify;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-bottom: 10px;
+    font-family: "Comic Neue", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
 .title-3{
     background-color: white;
     display: flex;
