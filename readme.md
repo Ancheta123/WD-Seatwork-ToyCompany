@@ -13,7 +13,7 @@
 
 <div align="center">
   Founded in 2024, House of Wonders engages in stuffed toys to bring you the wonders of that warm, nostalgic childhood feeling as we believe that it is never too old to have something as warm as a fuzzy toy as a companion.
-  House of Wonders first opened its doors in Metro Manila with the first collaboration with Plusheen as part of its grand opening. With plans to expand beyond the first three product series, our goal is to bring you one step closer to a place where you can find comfort make you feel like you are home.
+  House of Wonders first opened its doors in Metro Manila with the first collaboration with Pusheen as part of its grand opening. With plans to expand beyond the first three product series, our goal is to bring you one step closer to a place where you can find comfort and make you feel like you are home.
 </div>
 
 <br />
