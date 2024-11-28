@@ -17,6 +17,61 @@
     height: auto;
 }
 
+.img-2 {
+    float: left;
+    width: 6in;
+    height: 6in;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.title {
+    padding-top: 50px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 60pt;
+}
+
+.about {
+    text-align: justify;
+    padding: 20px;
+    margin-right: 50px;
+    line-height: 1.5;
+    font-family: "Comic Neue", cursive;
+    font-style: normal;
+    font-size: 21pt;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
+  }
+
+.flex-container > div {
+    background-color: white;
+    color: black;
+    width: 100%;
+    height: auto;
+    margin-bottom: 100px;
+    text-align: justify;
+    text-indent: 3em;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+.form-control{
+    background-color:white;
+    color: white;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    margin: auto;
+  }
+  
 .footer-title {
     display: block;
     left: 0;

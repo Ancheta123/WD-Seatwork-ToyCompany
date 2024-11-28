@@ -12,14 +12,11 @@
     padding-left: 50px;
 }
 
-.carousel{
-    margin-bottom: 100px;
-}
-
 .title {
     background-color: white;
     display: flex;
     justify-content: center;
+    margin-top: 100px;
     margin-left: 400px;
     margin-right: 400px;
     margin-bottom: 10px;
@@ -45,9 +42,8 @@
     width: 400px;
     height: 400px;
     margin: 10px;
-    margin-bottom: 100px;
-    text-align: center;
-    line-height: 75px;
+    margin-bottom: 430px;
+    text-align: justify;
     font-size: 30px;
   }
 
@@ -57,11 +53,68 @@
 }
 
 .title-2 {
+    text-align: center;
     background-color: white;
     padding: 20px;
     font-family: "Bebas Neue", sans-serif;
 }
 
+.title-add{
+    text-align: center;
+    background-color: white;
+    height: 220px;
+    padding: 20px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+
+.description {
+    text-indent: 3em;
+    line-height: 1.5;
+    text-align: justify;
+    background-color: white;
+    height: 300px;
+    padding: 30px;
+    font-family:  "Comic Neue", cursive;
+    font-style: normal;
+    font-size:large;
+}
+
+.cart {
+    line-height: 3;
+    padding:  10px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 24pt;
+}
+
+.title-add-2 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 230px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 10px;
+    padding: 20px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.title-2-add {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    height: 150px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.form-control{
+    background-color:white;
+    color: white;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    margin: auto;
+}
 
 .footer-title {
     display: block;
@@ -77,15 +130,6 @@
     margin-top: 100px;
     font-size: 50pt;
     font-family: "Bebas Neue", sans-serif;
-}
-
-.form-control{
-    background-color:white;
-    color: white;
-    text-align: center;
-    width: 300px;
-    height: 50px;
-    margin: auto;
 }
 
 .title-3{
