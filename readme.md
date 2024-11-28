@@ -5,8 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ancheta123/">
-
-    <img src="./assets/img/toylogo.png" width="100" height="100">
+    <img src="/assets/img/toylogo.png" width="100" height="100">
   </a>
 
   <h3 align="center">ANCHETA-FINAL PROJECT</h3>
