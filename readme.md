@@ -5,23 +5,23 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ancheta123/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
+
     <img src="./assets/img/toylogo.png" width="100" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
+
   <h3 align="center">ANCHETA-FINAL PROJECT</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  Founded in 2024, House of Wonders engages in stuffed toys to bring you the wonders of that warm, nostalgic childhood feeling as we believe that it is never too old to have something as warm as a fuzzy toy as a companion.
+  House of Wonders first opened its doors in Metro Manila with the first collaboration with Plusheen as part of its grand opening. With plans to expand beyond the first three product series, our goal is to bring you one step closer to a place where you can find comfort make you feel like you are home.
 </div>
 
 <br />
 
 [![wakatime](https://wakatime.com/badge/user/d7129ac7-fd68-49f5-94fc-7789b403b4d4/project/bc4f4cdc-1261-460e-813b-a0a113ce0ae2.svg)](https://wakatime.com/badge/user/d7129ac7-fd68-49f5-94fc-7789b403b4d4/project/bc4f4cdc-1261-460e-813b-a0a113ce0ae2)
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
+
 ![](https://visit-counter.vercel.app/counter.png?page=ancheta123/WD-Seatwork-ToyCompany)
 
 ---
@@ -29,7 +29,6 @@
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -56,26 +55,19 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is a responsive toy company website that showcases various toy products by a fictional company
+name "House of Wonders."
+- Its purpose is to have a website that can be used both in laptop and mobile devices.
+- The key components of the projects is a responsive multipage bootstrap-embedded website.
+- Technology that is used in the project is mostly HTML and CSS. HTML was used for creating the contents while
+CSS was used for design and format of the website.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Bootstrap-embedded
+- Responsive
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
