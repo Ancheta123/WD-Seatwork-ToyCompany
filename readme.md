@@ -57,9 +57,9 @@
 - The project is a responsive toy company website that showcases various toy products by a fictional company
 name "House of Wonders."
 - Its purpose is to have a website that can be used both in laptop and mobile devices.
-- The key components of the projects is a responsive multipage bootstrap-embedded website.
-- Technology that is used in the project is mostly HTML and CSS. HTML was used for creating the contents while
-CSS was used for design and format of the website.
+- The key components of the project is a responsive multipage bootstrap-embedded website.
+- Technology used in the project is mostly HTML and CSS. HTML was used for creating the contents while
+CSS was used for the design and format of the website.
 
 ### Key Components
 - MultiPage Website
