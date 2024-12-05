@@ -25,15 +25,12 @@
     width: 100%;
 }
 
-.icon{
-    display: flex;
-    justify-content: center;
-}
-
-
 .footer {
     display: flex;
     justify-content: center;
+    text-align: center;
+    margin: 100px;
+    margin-bottom: 50px;
     font-size: 50pt;
     font-family: "Bebas Neue", sans-serif;
 }
@@ -53,7 +50,7 @@
     justify-content: center;
     margin-left: 530px;
     margin-right: 530px;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
     padding: 20px;
     font-family: "Comic Neue", cursive;
     font-size: large;
@@ -67,10 +64,3 @@
     height: 50px;
     padding: 50px;
 }
-
-
-
-
-
-
-
